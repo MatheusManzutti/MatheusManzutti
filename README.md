@@ -10,9 +10,7 @@ Tenho foco da areá de desenvolvimento full stack web usando a linguagem Java co
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusManzutti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Algumas das ferramentas que eu mais utilizo 🧰
-
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
