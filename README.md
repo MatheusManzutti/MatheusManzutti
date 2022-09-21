@@ -1,6 +1,6 @@
 Olá! Eu sou Matheus Manzutti.
 
-Experiência em programação Full Stack Web (BackEnd + FrontEnd) utilizando tecnogias de frameworks, banco de dados entre outros. Autodidata, sempre busco novos desafios para agreagar novos conhecimentos.
+Experiência em programação Full Stack Web (BackEnd + FrontEnd) utilizando tecnologias de frameworks, banco de dados entre outros. Autodidata, sempre busco novos desafios para agreagar novos conhecimentos.
 
 ## Github stats 🚀
 
